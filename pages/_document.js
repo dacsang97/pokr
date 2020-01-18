@@ -19,16 +19,6 @@ class PokrDocument extends Document {
             href="https://fonts.googleapis.com/css?family=Be+Vietnam:400,500,700&display=swap&display=swap"
             rel="stylesheet"
           />
-          <style global jsx>
-            {`
-              body {
-                font-family: "Be Vietnam", sans-serif;
-              }
-              img {
-                max-width: 100%;
-              }
-            `}
-          </style>
         </Head>
         <body>
           <Main />
